@@ -1,0 +1,35 @@
+<?php
+// Text
+$_['text_new_subject']          = '%s - Comanda %s';
+$_['text_new_greeting']         = 'Gràcies pel seu interès en %s productes. La seva comanda ha estat rebuda i serà processada una vegada que el pagament hagi estat confirmat.';
+$_['text_new_received']         = 'Ha rebut una comanda.';
+$_['text_new_link']             = 'Per veure la seva comanda faci clic a l&#039;enllaç de sota:';
+$_['text_new_order_detail']     = 'Detall de la comanda';
+$_['text_new_instruction']      = 'Instruccions';
+$_['text_new_order_id']         = 'ID de la comanda:';
+$_['text_new_date_added']       = 'Data afegida:';
+$_['text_new_order_status']     = 'Estat de la comanda:';
+$_['text_new_payment_method']   = 'Mètode de pagament:';
+$_['text_new_shipping_method']  = 'Mètode d&#039;enviament:';
+$_['text_new_email']  			= 'E-mail:';
+$_['text_new_telephone']  		= 'Telèfon:';
+$_['text_new_ip']  				= 'Adreça IP:';
+$_['text_new_payment_address']  = 'Adreça de pagament';
+$_['text_new_shipping_address'] = 'Adreça d&#039;enviament';
+$_['text_new_products']         = 'Productes';
+$_['text_new_product']          = 'Producte';
+$_['text_new_model']            = 'Model';
+$_['text_new_quantity']         = 'Quantitat';
+$_['text_new_price']            = 'Preu';
+$_['text_new_order_total']      = 'Total de la comanda';
+$_['text_new_total']            = 'Total';
+$_['text_new_download']         = 'Quan el pagament hagi estat confirmat pot fer clic en l&#039;enllaç de sota per tenir accés als seus productes descarregables:';
+$_['text_new_comment']          = 'Els comentaris per a la seva comanda són:';
+$_['text_new_footer']           = 'Si us plau respongui a aquest e-mail si té alguna consulta.';
+$_['text_update_subject']       = '%s - Actualització de la comanda %s';
+$_['text_update_order']         = 'ID de la comanda:';
+$_['text_update_date_added']    = 'Data de la comanda:';
+$_['text_update_order_status']  = 'La seva comanda ha estat actualitzada al següent estat:';
+$_['text_update_comment']       = 'Els comentaris per a la seva comanda són:';
+$_['text_update_link']          = 'Per veure la seva comanda faci clic a l&#039;enllaç de sota:';
+$_['text_update_footer']        = 'Si us plau respongui a aquest e-mail si té alguna consulta.';
